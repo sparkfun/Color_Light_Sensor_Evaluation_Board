@@ -1,7 +1,7 @@
 Color Light Sensor Evaluation Board
 ===================================
 
-[![Color Light Sensor Evaluation Board](https://dlnmh9ip6v2uc.cloudfront.net/images/products/1/0/7/0/1/10701-01_i_ma.jpg)  
+[![Color Light Sensor Evaluation Board](https://cdn.sparkfun.com/assets/parts/5/5/1/6/10701-01.jpg)  
 *Color Light Sensor Evaluation Board (SEN-10701)*](https://www.sparkfun.com/products/10701)
 
 This is an evaluation board for the ADJD-S311-CR999 color light sensor. 
